@@ -6,7 +6,7 @@
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](#license)
 
-**🔗 Live Demo:** [raj-anmol-ai-student-travel-planner.streamlit.app](https://raj-anmol-ai-student-travel-planner.streamlit.app)
+**🔗 Live Demo:** [raj-anmol-ai-student-travel-planner.streamlit.app](https://ai-student-travel-planner-nyqx4lam9g4elezp3ppcyd.streamlit.app/)
 
 ---
 
