@@ -132,10 +132,4 @@ if st.button("Generate Smart Plan ✨", type="primary"):
                 "Default": "📝 Pack comfortable shoes and a reusable water bottle."
             }
             st.write(tips.get(destination, tips["Default"]))
-```
 
-
-<tool_call>
-<function=bash>
-<parameter=command>
-cd D:\AI-Student-Travel-Planner && python -c "import py_compile; py_compile.compile('app.py', doraise=True)" && echo "Syntax OK"
