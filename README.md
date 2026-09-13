@@ -6,6 +6,7 @@
 
 [![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://raj-anmol-ai-student-travel-planner.streamlit.app)
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)](https://github.com/Raj-Anmol/AI-Student-Travel-Planner)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](#license)
 [![Streamlit Folium](https://img.shields.io/badge/Folium%20Map-Enabled-green?logo=folium&logoColor=white)](https://folium.pydata.org/)
 
