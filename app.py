@@ -5,7 +5,6 @@ import requests
 import json
 import folium
 from streamlit_folium import st_folium
-from streamlit.runtime import get_script_run_ctx
 
 st.set_page_config(page_title="AI Student Travel Planner Pro", page_icon="🎒", layout="wide")
 
